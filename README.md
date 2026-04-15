@@ -28,7 +28,6 @@ The framework is built using the **Page Object Model (POM)** pattern with **NUni
 
 - [Visual Studio Community](https://visualstudio.microsoft.com/) (latest version) with the **.NET desktop development** workload installed
 - [.NET 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-- [Git Desktop](https://desktop.github.com/) — log in with the `.zltech` account
 - [MySQL Workbench Community](https://www.mysql.com/products/workbench/) (latest version)
 - **Google Chrome** browser installed (ChromeDriver v111 is bundled via NuGet)
 - Access to the **Consul** service (`http://consul.service.consul:8500`) for configuration retrieval
