@@ -128,8 +128,8 @@ The test supports three target environments selected via the `environment` varia
 
 | Value | Environment | URL |
 |---|---|---|
-| `1` | QA | `https://qa.referwell.com/login` |
-| `2` | DEMO | `https://demo.referwell.com/login` |
+| `1` | QA | `https://qa.testito.com/login` |
+| `2` | DEMO | `https://demo.testito.com/login` |
 
 User types per environment:
 
@@ -188,5 +188,5 @@ This test covers the full smoke test flow:
 
 ## Documentation
 
-- [Automation Smoke Test — Confluence](https://referwell.atlassian.net/wiki/spaces/QD/pages/4966776852/Automation+Smoke+Test)
-- [Automation Test Plan V.1 — Confluence](https://referwell.atlassian.net/wiki/spaces/QD/pages/4966580250/Automation+Test+Plan+V.1)
+- [Automation Smoke Test — Confluence](https://testito.atlassian.net/wiki/spaces/QD/pages/4966776852/Automation+Smoke+Test)
+- [Automation Test Plan V.1 — Confluence](https://testito.atlassian.net/wiki/spaces/QD/pages/4966580250/Automation+Test+Plan+V.1)
